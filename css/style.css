@@ -1,0 +1,42 @@
+body{
+    background-color: whitesmoke;text-decoration: wavy;}
+
+body{
+    
+    font-size: medium;text-align: center;text-decoration: solid;}
+
+
+h1{
+    font-family: sans-serif;text-align: center; color: burlywood;text-decoration: underline;}
+
+h2,h3,h4,h5,h6 {font-family: sans-serif; 
+    
+    text-transform: lowercase;}
+
+
+img{border-bottom: 30%;display: inline-block;
+    margin-left: auto;
+    margin-right: auto;}
+li{font-family: calibri; sans-serif;margin-bottom: 5px;}
+
+.my-class{color: blue;}
+
+a[target] {
+    font-size:xx-large} 
+    
+    #adam{color: black;}
+    #Diallo{color: black;}
+
+    section > ul{
+font-size:medium;
+    }
+
+
+    header + aside {
+        color:black;
+    }
+
+main ~ p {
+    color: chocolate;}
+
+
